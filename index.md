@@ -2,7 +2,7 @@
 
 ## What is markdown
 
-![Image of FinTechCat](https://octodex.github.com/images/Fintechtocat.png)
+<img src="https://octodex.github.com/images/Fintechtocat.png" width="200">
 
 ### How to use markdown
 
