@@ -1,6 +1,6 @@
 # Index
 
-## What is markdown
+## What is markdown :wave:
 
 Examples of markdown
 ```markdown
