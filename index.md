@@ -16,6 +16,7 @@ const donut = []
 }
 ```
 
+Adding an image:
 <img src="https://octodex.github.com/images/Fintechtocat.png" width="200">
 
 ### How to use markdown
