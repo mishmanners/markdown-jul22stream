@@ -1,4 +1,4 @@
-# Index
+# Communicating using Markdown
 
 ## What is markdown
 
