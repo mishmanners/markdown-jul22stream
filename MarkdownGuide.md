@@ -1,6 +1,6 @@
 # Index
 
-## What is markdown :wave:
+## What is markdown
 
 Examples of _markdown_:
 ```markdown
@@ -14,6 +14,13 @@ Example of **JavaScript** code:
 function(code); {
 const donut = []
 }
+```
+You can also add emojis 🥳
+For example:
+```markdown
+:wave:
+:smile:
+:heart:
 ```
 
 Adding an image:
