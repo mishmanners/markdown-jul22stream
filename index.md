@@ -2,13 +2,13 @@
 
 ## What is markdown :wave:
 
-Examples of markdown
+Examples of _markdown_:
 ```markdown
 # Heading 1
 ## Heading 2
 ```
 
-Example of JavaScript code:
+Example of **JavaScript** code:
 
 ```JavaScript
 function(code); {
